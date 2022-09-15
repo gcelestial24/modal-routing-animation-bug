@@ -1,0 +1,7 @@
+{
+  "name": "modal-routing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
